@@ -52,3 +52,4 @@ A basic knowledge of React
 - [LIVEBLOCKS](https://liveblocks.io/) - provides customizable pre-built features that boost user engagement by adding collaboration to your product
 - [Gatsby](https://www.gatsbyjs.org/) - A static site generator for React
 - [Appwrite](https://appwrite.io/) -open spurce Backend as a service
+# collab_text_editor_frontend
